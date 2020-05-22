@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1{
+  padding: 40px 0;
+  font-size: 40px;
+}
+.row{
+  text-align: center;
+}
+
+.row img{
+  max-height: 200px;
+}
+
+.grey{
+  background-color: #f9f9f9;
+}
