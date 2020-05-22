@@ -18,7 +18,7 @@ h1{
 }
 
 .row img{
-  max-height: 200px;
+  max-width:60%;
 }
 
 .grey{
@@ -33,5 +33,9 @@ h1{
 }
 
 img[src$=".svg"]{
-  height: 300px;
+  width:37%;
+}
+
+img[src*="map"]{
+  width:37%;
 }
