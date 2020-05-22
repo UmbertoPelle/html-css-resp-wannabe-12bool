@@ -8,6 +8,7 @@ h1{
   padding: 40px 0;
   font-size: 40px;
 }
+
 .row{
   text-align: center;
 }
@@ -18,4 +19,12 @@ h1{
 
 .grey{
   background-color: #f9f9f9;
+}
+
+.circle-img{
+  margin: 20px auto;
+  border-radius: 50%;
+  background-color: blue;
+  width: 38%;
+  padding:5%;
 }
